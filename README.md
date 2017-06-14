@@ -71,7 +71,7 @@ baseurl = "https://www.example.com/" # Make sure to end baseurl with a '/'
 title = "Your site title"
 author = "Your name"
 # Shown in the side menu
-copyright = "&copy; 2016. All rights reserved."
+copyright = "&copy; 2017. All rights reserved."
 canonifyurls = true
 paginate = 10
 
